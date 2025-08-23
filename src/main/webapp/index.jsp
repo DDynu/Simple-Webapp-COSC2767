@@ -25,7 +25,7 @@
       <p>Added change to test Docker server</p>
     </div>
 
-    %-- Add this logging code --%>
+    <%-- Add this logging code --%>
 <%@ page import="java.io.*, java.util.Date, java.text.SimpleDateFormat" %>
 <%
     try {
