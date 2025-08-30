@@ -23,6 +23,7 @@
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
       <p>Added change to test Docker server</p>
+      <p>Added change to test ansible change</p>
     </div>
 
     <%-- Add this logging code --%>
